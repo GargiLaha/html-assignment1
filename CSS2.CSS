@@ -1,0 +1,66 @@
+
+.hdr h1 {
+font-family: 'Yanone Kaffeesatz', sans-serif;
+text-transform: uppercase;
+font-size: 70px;
+margin-left: 0px;
+}
+ul a{
+	text-decoration: none;
+	font-size: 40px;
+	margin-right: 0;
+	padding-right: 10px;
+	color: #666;	
+}
+li a:hover{
+	color: black;
+	text-decoration: underline;
+}
+div{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 90px;
+}
+.firstcon{
+	margin-bottom: 50px;
+	background: #b3e6ff;
+}
+.seccon{
+	font-size: 50px;
+	margin-top: 0;
+	background: #eee6ff;
+	padding-left: 265px;
+}
+
+
+.thirdcon{
+	background: #eee6ff;
+	text-align: center;
+	font-size: 40px;
+}
+.fourcon{
+	margin-bottom: 80px;
+	background: #eee6ff;
+	padding-left: 260px;
+}
+img{
+	width: 400px;
+	padding-left: 0;
+	padding-right: 40px;
+}
+.second p{
+	padding-bottom: 45px;
+	font-size: 26px;
+	padding-right: 0px;
+	
+}
+
+ul li{
+	display:inline;
+	padding-top: 5px;
+	padding-right: 0;  
+}
+.navigate{
+	margin-right: 0;
+	padding-left: 210px;
+	margin-top: 30px;
+}
