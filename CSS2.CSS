@@ -16,14 +16,22 @@ li a:hover{
 	color: black;
 	text-decoration: underline;
 }
+
 div{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 90px;
 }
+
+div p{
+	font-size: 25px;
+	color: 	#FF7F50;
+}
+
 .firstcon{
 	margin-bottom: 50px;
 	background: #b3e6ff;
 }
+
 .seccon{
 	font-size: 50px;
 	margin-top: 0;
@@ -63,4 +71,10 @@ ul li{
 	margin-right: 0;
 	padding-left: 210px;
 	margin-top: 30px;
+}
+
+footer{
+	background-color: #4b5254;
+	color: white
+	font-size:20px;
 }
