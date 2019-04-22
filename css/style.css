@@ -21,26 +21,32 @@ div{
 	font-size: 90px;
 }
 .firstcon{
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 	background: #b3e6ff;
 }
 .seccon{
 	font-size: 50px;
 	margin-top: 0;
 	background: #eee6ff;
-	padding-left: 265px;
+	padding-left: 150px;
+	padding-bottom: 80px;
+
 }
 
+blockquote{
+	background: white;
+	border: groove;
+}
 
 .thirdcon{
 	background: #eee6ff;
 	text-align: center;
 	font-size: 40px;
+	padding-bottom: 80px;
 }
 .fourcon{
-	margin-bottom: 80px;
 	background: #eee6ff;
-	padding-left: 260px;
+	padding-left: 150px;
 }
 img{
 	width: 400px;
@@ -63,4 +69,14 @@ ul li{
 	margin-right: 0;
 	padding-left: 210px;
 	margin-top: 30px;
+}
+div p{
+	font-size: 25px;
+	color: #ed5858; 
+}
+
+footer{
+background-color:#091836;
+color: white;
+font-size: 20px;
 }
