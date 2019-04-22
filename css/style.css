@@ -28,7 +28,7 @@ div p{
 }
 
 .firstcon{
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 	background: #b3e6ff;
 }
 
@@ -36,19 +36,25 @@ div p{
 	font-size: 50px;
 	margin-top: 0;
 	background: #eee6ff;
-	padding-left: 265px;
+	padding-left: 150px;
+	padding-bottom: 80px;
+
 }
 
+blockquote{
+	background: white;
+	border: groove;
+}
 
 .thirdcon{
 	background: #eee6ff;
 	text-align: center;
 	font-size: 40px;
+	padding-bottom: 80px;
 }
 .fourcon{
-	margin-bottom: 80px;
 	background: #eee6ff;
-	padding-left: 260px;
+	padding-left: 150px;
 }
 img{
 	width: 400px;
@@ -72,9 +78,22 @@ ul li{
 	padding-left: 210px;
 	margin-top: 30px;
 }
+<<<<<<< HEAD:CSS2.CSS
 
 footer{
 	background-color: #4b5254;
 	color: white
 	font-size:20px;
 }
+=======
+div p{
+	font-size: 25px;
+	color: #ed5858; 
+}
+
+footer{
+background-color:#091836;
+color: white;
+font-size: 20px;
+}
+>>>>>>> 6551a929f0d8a4b9d726eff81a666654fd4547a3:css/style.css
