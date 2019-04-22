@@ -2,7 +2,7 @@
 .hdr h1 {
 font-family: 'Yanone Kaffeesatz', sans-serif;
 text-transform: uppercase;
-font-size: 70px;
+font-size: 75px;
 margin-left: 0px;
 }
 ul a{
@@ -16,6 +16,16 @@ li a:hover{
 	color: black;
 	text-decoration: underline;
 }
+h2{
+	text-transform: uppercase;
+	font-size: 35px;
+	color: #ff6600;
+}
+article p{
+	font-size: 25px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
 
 div{
 	font-family: 'Yanone Kaffeesatz', sans-serif;
@@ -35,29 +45,27 @@ div p{
 .seccon{
 	font-size: 50px;
 	margin-top: 0;
-	background: #eee6ff;
+	color: white;
+	background: #ccff33;
 	padding-left: 150px;
 	padding-bottom: 80px;
-
 }
 
-blockquote{
-	background: white;
-	border: groove;
-}
 
 .thirdcon{
-	background: #eee6ff;
+	border: ridge;
+	background: white;
 	text-align: center;
-	font-size: 40px;
-	padding-bottom: 80px;
+	font-size: 50px;
+	padding: 20px 0px 20px 0px;
+	margin:15px;
 }
 .fourcon{
-	background: #eee6ff;
+	background: #4d1933;
 	padding-left: 150px;
 }
 img{
-	width: 400px;
+	width: 440px;
 	padding-left: 0;
 	padding-right: 40px;
 }
@@ -78,14 +86,7 @@ ul li{
 	padding-left: 210px;
 	margin-top: 30px;
 }
-<<<<<<< HEAD:CSS2.CSS
 
-footer{
-	background-color: #4b5254;
-	color: white
-	font-size:20px;
-}
-=======
 div p{
 	font-size: 25px;
 	color: #ed5858; 
@@ -96,4 +97,8 @@ background-color:#091836;
 color: white;
 font-size: 20px;
 }
->>>>>>> 6551a929f0d8a4b9d726eff81a666654fd4547a3:css/style.css
+@media only screen and (max-width: 768px){
+  [class*="col-"] {
+    width: 100%;
+
+}
